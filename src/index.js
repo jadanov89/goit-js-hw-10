@@ -35,6 +35,7 @@ const refs = {
       renderCountryCard(countriesArray[0]);
     }
   }
+  
   function searchedCountryMarkup({
     flags,
     name,
